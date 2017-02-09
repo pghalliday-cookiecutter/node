@@ -1,4 +1,4 @@
-# node-es6
+# node
 
 Project template for NodeJS applications
 
@@ -11,7 +11,7 @@ Second, enable the project on [TravisCI](https://travis-ci.org) and [Coveralls](
 Then generate the project boilerplate...
 
 ```shell
-cookiecutter https://github.com/pghalliday-cookiecutter/node-es6.git
+cookiecutter https://github.com/pghalliday-cookiecutter/node.git
 ```
 
 Then initialise a git repository and push it...
