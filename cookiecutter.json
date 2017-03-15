@@ -4,5 +4,6 @@
   "github_username": "my-github-account",
   "full_name": "My Name",
   "email": "me@email.com",
-  "website": "http://me.com"
+  "website": "http://me.com",
+  "appveyor_id": "xxxxxxxxx"
 }

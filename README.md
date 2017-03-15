@@ -6,7 +6,7 @@ Project template for NodeJS applications
 
 First, create an empty (no README.md) project on [GitHub](https://github.com). You will need the GitHub user and project names when running the template.
 
-Second, enable the project on [TravisCI](https://travis-ci.org) and [Coveralls](https://coveralls.io)
+Second, enable the project on [TravisCI](https://travis-ci.org), [Appveyor](https://www.appveyor.com/) and [Coveralls](https://coveralls.io)
 
 Then generate the project boilerplate...
 
