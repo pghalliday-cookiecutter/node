@@ -10,7 +10,7 @@
 
 ## Contributing
 
-Run unit tests and build before pushing/opening a pull request
+Run unit tests and build before pushing/opening a pull request.
 
 - `npm test` - lint and test
 - `npm start` - watch and build, etc with alarmist
